@@ -1,0 +1,8 @@
+# Ignora venv
+.venv
+# Ignora env
+.env
+# Ignora vscode
+.vscode
+# Ignora pycache
+__pycache__
